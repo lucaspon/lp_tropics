@@ -1,4 +1,4 @@
-some constructions lend themselves to generative programing easier than others.
+some constructions lend themselves to generative programming easier than others.
 
 in *tropics*, I use a simple program with minimal parameters that generate a somewhat random combination of circles with a palette reminiscent of tropical moods.
 
